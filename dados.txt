@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:Patricia
--Profissão:Desenvolvedora de Testes de Software
--Cidade:Manaus
--O que faz nas horas vaga:Assisto séries
--Feedback sobre o curso Qualidade de Software: Excelente
--Feedback sobre a plataforma de estudo da EBAC:Muito boa
+-Primeiro Nome: Patricia
+-Profissão: Desenvolvedora de Testes de Software
+-Cidade: Manaus
+-O que faz nas horas vaga: Assisto séries
+-Feedback sobre o curso Qualidade de Software: Excelente, estou aprendendo bastante
+-Feedback sobre a plataforma de estudo da EBAC: Muito boa a didática
 
 Obrigado!!!
 
